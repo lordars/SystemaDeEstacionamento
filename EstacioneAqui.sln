@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioFundamentos", "DesafioFundamentos\DesafioFundamentos.csproj", "{42BDD2E3-F30F-44FB-B2FB-DB9DB651DCB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models.Common", "Models.Common\Models.Common.csproj", "{5C40D835-4D6F-4445-847A-D97B74D601EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42BDD2E3-F30F-44FB-B2FB-DB9DB651DCB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42BDD2E3-F30F-44FB-B2FB-DB9DB651DCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42BDD2E3-F30F-44FB-B2FB-DB9DB651DCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42BDD2E3-F30F-44FB-B2FB-DB9DB651DCB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C40D835-4D6F-4445-847A-D97B74D601EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C40D835-4D6F-4445-847A-D97B74D601EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C40D835-4D6F-4445-847A-D97B74D601EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C40D835-4D6F-4445-847A-D97B74D601EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

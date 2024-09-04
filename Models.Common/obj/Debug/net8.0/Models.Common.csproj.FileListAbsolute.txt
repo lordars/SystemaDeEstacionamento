@@ -1,0 +1,12 @@
+/home/lordars/Documentos/programacion/Dotnet/APRENDENDO/SystemaDeEstacionamento/Models.Common/bin/Debug/net8.0/Models.Common.deps.json
+/home/lordars/Documentos/programacion/Dotnet/APRENDENDO/SystemaDeEstacionamento/Models.Common/bin/Debug/net8.0/Models.Common.dll
+/home/lordars/Documentos/programacion/Dotnet/APRENDENDO/SystemaDeEstacionamento/Models.Common/bin/Debug/net8.0/Models.Common.pdb
+/home/lordars/Documentos/programacion/Dotnet/APRENDENDO/SystemaDeEstacionamento/Models.Common/obj/Debug/net8.0/Models.Common.GeneratedMSBuildEditorConfig.editorconfig
+/home/lordars/Documentos/programacion/Dotnet/APRENDENDO/SystemaDeEstacionamento/Models.Common/obj/Debug/net8.0/Models.Common.AssemblyInfoInputs.cache
+/home/lordars/Documentos/programacion/Dotnet/APRENDENDO/SystemaDeEstacionamento/Models.Common/obj/Debug/net8.0/Models.Common.AssemblyInfo.cs
+/home/lordars/Documentos/programacion/Dotnet/APRENDENDO/SystemaDeEstacionamento/Models.Common/obj/Debug/net8.0/Models.Common.csproj.CoreCompileInputs.cache
+/home/lordars/Documentos/programacion/Dotnet/APRENDENDO/SystemaDeEstacionamento/Models.Common/obj/Debug/net8.0/Models.Common.sourcelink.json
+/home/lordars/Documentos/programacion/Dotnet/APRENDENDO/SystemaDeEstacionamento/Models.Common/obj/Debug/net8.0/Models.Common.dll
+/home/lordars/Documentos/programacion/Dotnet/APRENDENDO/SystemaDeEstacionamento/Models.Common/obj/Debug/net8.0/refint/Models.Common.dll
+/home/lordars/Documentos/programacion/Dotnet/APRENDENDO/SystemaDeEstacionamento/Models.Common/obj/Debug/net8.0/Models.Common.pdb
+/home/lordars/Documentos/programacion/Dotnet/APRENDENDO/SystemaDeEstacionamento/Models.Common/obj/Debug/net8.0/ref/Models.Common.dll
