@@ -17,4 +17,4 @@ A idea é fazer crescer o projecto com ideas para que possa ser implementado em 
 de forma facil e sem muito custo, algo que possa ser testado. penso que seria ideal un app de celular onde possa tirar as fotos do vehiculo, previamente, logo verificar e cadastrar a placa.
 assim o aparcador do vehiculo tem prova como chegou o vehiculo e como o vehiculo foi entrege.
 
-Estas são algumas ideas ou mejoras, se quiser colaborar pode deixar um Issue. 
+Para ajudar olha https://github.com/lordars/SystemaDeEstacionamento/wiki.
